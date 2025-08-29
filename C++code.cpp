@@ -6,7 +6,7 @@ int main(){
     cin>>ch;
     switch(ch){
         case 1:
-        cout<<"Monday";
+        cout<<"Monday";git commit -m
         break;
          
         case 2:
@@ -32,7 +32,7 @@ int main(){
         case 7:
         cout<<"Sunady no college";
         break;
-        
+
         
 
 
